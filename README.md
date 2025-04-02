@@ -26,7 +26,7 @@ This project aims to analyze smoking trends across different genders using stati
 - Built predictive models to forecast future smoking prevalence
   
 ---
-#📝 Results
+# 📝 Results
 - Visualized gender-based differences in smoking habits
 
 - Provided actionable insights to public health authorities
